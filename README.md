@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Assembly, C, C++.**
 
-- 📫 How to reach me **notshezanshaikh@gmail.com**
+- 📫 How to reach me **shezanshaikh@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
