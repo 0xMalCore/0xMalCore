@@ -1,50 +1,50 @@
-<h1 align="center">Hi 👋, I'm Shezan Shaikh</h1>
-<h3 align="center">Learning low level languages. Not much of a Web Fan.</h3>
+# 💫 About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=su1cidee&label=Profile%20views&color=0e75b6&style=flat" alt="su1cidee" /> </p>
+An individual who loves to explore and break down computers, with a strong passion for cybersecurity, reverse engineering, and malware analysis.
+Driven by self-motivation and hands-on learning.
 
-- 🔭 I’m currently working on **my final exams**
+---
 
-- 🌱 I’m currently learning **x86 Assembly**
+## 🌐 Socials:
 
-- 💬 Ask me about **Assembly, C, C++.**
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/NdBkFGph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/shzn18)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:notshezanshaikh@gmail.com)
 
-- 📫 How to reach me **shezanshaikh@protonmail.com**
-<h3 align="left">Connect with me:</h3>
+---
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge\&logo=assemblyscript\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.shion.dev/api?username=0xMalCore&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="500"/>
+  <img src="https://streak-stats.demolab.com/?user=0xMalCore&theme=aura&hide_border=false" height="500"/>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xMalCore&theme=aura&hide_border=false&layout=compact" width="50%"/>
+</div>
+
+---
 
 <p align="left">
-  <a href="https://linkedin.com/in/shzn18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/su1cidee" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=0xMalCore&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" />
-  </span>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xMalCore&show_icons=true&locale=en&layout=compact" alt="0xMalCore" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMalCore&show_icons=true&locale=en" alt="0xMalCore" /></p>
