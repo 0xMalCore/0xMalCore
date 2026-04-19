@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=su1cidee&label=Profile%20views&color=0e75b6&style=flat" alt="su1cidee" /> </p>
 
-- 🔭 I’m currently working on **my final year project for SEM VI**
+- 🔭 I’m currently working on **my final exams**
 
 - 🌱 I’m currently learning **x86 Assembly**
 
